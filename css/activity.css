@@ -1,0 +1,16 @@
+.activity-div{
+    width: 20%;
+    margin: 5px;
+}
+.act-img{
+    width: 50%;
+}
+.act-img:hover{
+    transform: scale(1.03,1.03);
+}
+.act-con{
+    width: 69.99%;
+}
+.act-name{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

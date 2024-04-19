@@ -1,0 +1,40 @@
+.camp-form{
+    
+    margin: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 100px;
+}
+legend {
+    font-size: 30px;
+    background-color: #4caf50;
+    color: white;
+    padding: 5px 10px;
+  }
+
+
+
+.form-table-row{
+    
+}
+.form-table-td{
+    
+    margin-top: 10px;
+    font-size: 20px;
+    
+
+}
+.form-table-submit{
+    color: #4caf50;
+    border: 2px solid #4caf50;
+    width: 90px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.form-table-t input[type="text"]{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}

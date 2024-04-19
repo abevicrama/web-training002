@@ -1,0 +1,39 @@
+.bodycontainner {
+    width: 98%;
+
+
+}
+
+.frame01 {
+    width: 60%;
+    display: inline-block;
+    color: black;
+    padding-top: 20px;
+
+
+}
+
+.vision-title {
+    font-size: 30px;
+    text-align: center;
+}
+
+.vision-content {
+    text-align: justify;
+    padding: 2px;
+
+
+}
+.wild-img{
+    width: 100%;
+
+}
+.frame02 {
+    padding: 10px;
+
+    width: 90%;
+    display: inline-block;
+    background-color: #4caf50;
+
+
+}
